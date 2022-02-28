@@ -6,7 +6,7 @@ The purpose of this project is based on the [Data/Kickstarter_Challenge](https:/
 # ![image_name](https://github.com/zk100yyy/kickstarter-analysis/blob/resources/resources/Theater_Outcomes_vs_Launch.png?raw=true)
 In the first challenge, the condition is  "Launch Date" combined with the "theater" category, from the picture["Theater Outcomes Based on Launch Date"](https://github.com/zk100yyy/kickstarter-analysis/blob/main/README.md#) we can see different Launch Date would affect successful outcomes.
 # ![image_name](https://github.com/zk100yyy/kickstarter-analysis/blob/resources/resources/Outcomes_vs_Goals.png?raw=true)
-In the second challenge, the condition is "Goal" combined with the "plays" category. From the picture"Outcomes Based on Goal", we could see how Goals would relate to the success rate.
+In the second challenge, the condition is "Goal" combined with the "plays" category. From the picture["Outcomes Based on Goal"](https://github.com/zk100yyy/kickstarter-analysis/blob/main/README.md#-1), we could see how Goals would relate to the success rate.
 
 ## 2. Analysis and Challenges
 ### Outcomes Based on Launch Date
